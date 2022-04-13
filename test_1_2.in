@@ -1,0 +1,37 @@
+#input
+    #include <iostream>
+    /*
+    #include <map>
+    #include <string>
+    using std::cout;
+    using std::multimap;
+    using std::string;
+    using std::endl;
+    */
+    int main() {
+    /*
+      multimap<int,string> ms;
+
+      ms.insert({1, "A"});
+      ms.insert({1, "B"});
+      ms.insert({2, "C"});
+      ms.insert({2, "D"});
+
+      for (auto [key, value]: ms) {
+        cout << key << " " << value << endl;
+      }
+
+      auto [begin, end] = ms.equal_range(1);
+      for (auto it = begin; it != end; ++it) {
+        cout << it->first << " "
+              << it->second << endl;
+      }
+
+      cout << funcion<int, char>();
+    */
+    }
+#output
+    #include <iostream>
+    int main() {
+    }
+#endtest
